@@ -1,4 +1,4 @@
-# 鄒文雄的個人網頁
+# 沈宗和的個人網頁
 
 ## 1. 基本資料
 
@@ -11,7 +11,7 @@
 | **Email** | Samshen0822@gmail.com |
 | **GitHub** | [https://github.com/kwen882/0153B022](https://github.com/kwen882/0153B022) |
 
-![個人照片](image/image1.png)
+![個人照片](image/image1.png.png)
 
 ## 2. 關於我 About Me
 
