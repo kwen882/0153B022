@@ -11,7 +11,7 @@
 | **Email** | Samshen0822@gmail.com |
 | **GitHub** | [https://github.com/kwen882/0153B022](https://github.com/kwen882/0153B022) |
 
-![個人照片](image/C:\Users\user\Downloads\image1.png.png)
+![個人照片](image/https://github.com/kwen882/0153B022/blob/main/image1.png.png?raw=true)
 
 ## 2. 關於我 About Me
 
